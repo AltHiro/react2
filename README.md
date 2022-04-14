@@ -1,2 +1,2 @@
-# react2
+# react-todo
 Created with CodeSandbox
